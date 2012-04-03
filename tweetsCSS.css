@@ -1,0 +1,40 @@
+#results td {
+		padding-top: 15px;
+		padding-right: 15px;
+		padding-bottom: 20px;
+		padding-left: 15px;
+		border: 1px solid black;
+	}
+
+#results table {
+		text-align: center;
+		border-collapse: collapse;
+	}
+
+#results a:link {
+		text-decoration: none;
+		color: #f24d1b;
+
+		}
+
+#results .msg {
+		text-align: left;
+		padding-left: 8px;
+	}
+
+#results tr.odd {
+		background-color: #bce4ee;
+	}
+
+#results .src {
+		background: url(timoreilly.gif) left center no-repeat;
+		text-align: right;
+		font-style: italic;
+		padding: 10px;
+	}
+
+#results h1 {
+		font-size: medium;
+		font-style: inherit;
+		font-variant: small-caps
+	}
